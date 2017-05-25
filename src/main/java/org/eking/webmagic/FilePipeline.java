@@ -10,7 +10,7 @@ import us.codecraft.webmagic.ResultItems;
 import us.codecraft.webmagic.Task;
 import us.codecraft.webmagic.pipeline.Pipeline;
 
-public class filePipeline implements Pipeline {
+public class FilePipeline implements Pipeline {
 
 	@SuppressWarnings("unchecked")
 	@Override
